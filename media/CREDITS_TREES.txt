@@ -1,0 +1,42 @@
+License
+-------
+
+CC-BY-SA 3.0:
+- http://creativecommons.org/licenses/by-sa/3.0/
+GNU GPL 3.0:
+- http://www.gnu.org/licenses/gpl-3.0.html
+
+If you need to figure out exactly who made what please see the Liberated Pixel Cup entries.
+
+Liberated Pixel Cup Assets:
+http://opengameart.org/lpc-art-entries
+
+LPC participants:
+----------------
+
+Barbara Rivera
+- Concept Art for LPC Entry
+
+Casper Nilsson
+	email: casper.nilsson@gmail.com
+	Freenode: CasperN
+	OpenGameArt.org: C.Nilsson
+- LPC C.Nilsson (2D art)
+
+Johann CHARLOT
+	Homepage  http://poufpoufproduction.fr
+	Email     johannc@poufpoufproduction.fr
+- Shoot'em up graphic kit
+
+Chris Phillips 
+- Team River Fox
+
+
+LPC Base assets found here:
+http://lpc.opengameart.org/static/lpc-style-guide/assets.html
+
+Lanea Zimmerman (AKA Sharm)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- treetop.png
+- trunk.png
